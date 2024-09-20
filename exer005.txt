@@ -1,0 +1,9 @@
+5) Resolver o problema dos interruptores e lâmpadas
+Estratégia:
+
+Ligue o primeiro interruptor e deixe ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá para a sala das lâmpadas:
+A lâmpada acesa corresponde ao segundo interruptor.
+A lâmpada que está quente, mas apagada, corresponde ao primeiro interruptor.
+A lâmpada apagada e fria corresponde ao terceiro interruptor.
